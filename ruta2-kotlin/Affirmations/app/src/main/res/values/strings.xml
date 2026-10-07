@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Soy capaz de lograr grandes cosas.</string>
+    <string name="affirmation2">Cada día trae nuevas oportunidades.</string>
+    <string name="affirmation3">Confío en mis habilidades y conocimientos.</string>
+    <string name="affirmation4">Los desafíos me ayudan a crecer profesionalmente.</string>
+    <string name="affirmation5">Mantengo la calma y la perseverancia frente a los retos.</string>
+    <string name="affirmation6">Mis metas están al alcance de mi disciplina diaria.</string>
+    <string name="affirmation7">Agradezco las lecciones de cada experiencia.</string>
+    <string name="affirmation8">Mi esfuerzo constante produce resultados positivos.</string>
+    <string name="affirmation9">Soy constante en mi aprendizaje técnico.</string>
+    <string name="affirmation10">Tengo la capacidad de resolver problemas complejos.</string>
+</resources>

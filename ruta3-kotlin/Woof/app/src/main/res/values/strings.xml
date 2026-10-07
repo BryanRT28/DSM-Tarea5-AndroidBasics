@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Woof</string>
+    <string name="dog_name_1">Max</string>
+    <string name="dog_hobby_1">Perseguir pelotas en el parque y correr.</string>
+    <string name="dog_name_2">Luna</string>
+    <string name="dog_hobby_2">Dormir siestas bajo el sol de la tarde.</string>
+    <string name="dog_name_3">Rocky</string>
+    <string name="dog_hobby_3">Aprender trucos y pedir galletas.</string>
+    <string name="dog_name_4">Toby</string>
+    <string name="dog_hobby_4">Caminar por el pasto y explorar senderos.</string>
+    <string name="dog_name_5">Bella</string>
+    <string name="dog_hobby_5">Nadar en el río y buscar juguetes.</string>
+    <string name="years_old">%1$d años</string>
+    <string name="about">Acerca de</string>
+    <string name="expand_button_description">Expandir detalles</string>
+</resources>
