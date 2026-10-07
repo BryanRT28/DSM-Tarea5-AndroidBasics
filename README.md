@@ -13,7 +13,7 @@ Repositorio correspondiente al desarrollo de las actividades, proyectos práctic
 
 ---
 
-## 🚀 Contenido de las Rutas
+##  Contenido de las Rutas
 
 ###  Ruta 1: Componentes de la Arquitectura de Android (`Unscramble`)
 - **Descripción:** Implementación de arquitectura moderna basada en el flujo unidireccional de datos (UDF), separación de capas e inmutabilidad del estado.
