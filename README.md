@@ -4,15 +4,6 @@ Repositorio correspondiente al desarrollo de las actividades, proyectos práctic
 
 ---
 
-##  Información del Estudiante
-
-- **Estudiante:** Bryan Joel Rodriguez Tanta
-- **Código:** 23200204
-- **Escuela:** Ingeniería de Sistemas - UNMSM
-- **Docente:** Mg. Zoraida Mamani
-
----
-
 ##  Estructura del Repositorio
 
 - `ruta1-kotlin/`: Ruta 1 - Componentes de la Arquitectura de Android (`Unscramble`).
